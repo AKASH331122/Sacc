@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1, Star Jalsha (Yupp TV)
+
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1, Colors Bangla (Yupp TV)
+
+http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
+
+#EXTINF:-1 Gtv
+
+http://198.195.239.50:8095/JalshaMovies/index.m3u8
+
+ #EXTINF:-1, SATV HD
+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+ #EXTINF:-1, Dipto TV
+
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Star Jalsha
+
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
